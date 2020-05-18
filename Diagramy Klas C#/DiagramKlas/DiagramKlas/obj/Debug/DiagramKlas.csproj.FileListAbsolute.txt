@@ -1,0 +1,7 @@
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\obj\Debug\DiagramKlas.csprojAssemblyReference.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\obj\Debug\DiagramKlas.csproj.CoreCompileInputs.cache
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\bin\Debug\DiagramKlas.exe.config
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\bin\Debug\DiagramKlas.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\bin\Debug\DiagramKlas.pdb
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\obj\Debug\DiagramKlas.exe
+E:\Moje dokumenty\pwsz Legnica\sem 4\pipo2 laborki\Diagramy Klas C#\DiagramKlas\DiagramKlas\obj\Debug\DiagramKlas.pdb
